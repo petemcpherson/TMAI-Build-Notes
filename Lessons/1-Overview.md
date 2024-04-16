@@ -1,3 +1,5 @@
+# 1 - Overview of what I build
+
 1. The overall objective
 2. Tools Used
 	1. VS Code (Cursor)

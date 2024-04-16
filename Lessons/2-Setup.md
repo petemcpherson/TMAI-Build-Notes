@@ -1,9 +1,12 @@
+# 2 - Setting up SvelteKit, Tailwind, and DaisyUI
+
+/What we're doing/
+
 1. (Optional) Create/choose folder for project parent
 2. Install SvelteKit
 3. Install Tailwind & DaisyUI
 4. Set up Google Firebase
-	1. Firestore
-	2. Auth
+
 **Important Reminder: I am NOT a developer and don't pretend to be! I'm sure there are better ways to do things. Also, Pete cannot be held liable for anything you build as a result of these videos.**
 
 ## 0 - Prerequisites
